@@ -1,0 +1,17 @@
+<span id="reg_info">澳大利亚注册移民代理 MARN：9903411，0100527，1682795</span>
+<span id="top_social">
+	<img src="http://localhost/franklz/wp-content/themes/franklz/images/flz_top01.png"/>
+	<img src="http://localhost/franklz/wp-content/themes/franklz/images/flz_top02.png"/>
+	<a href="https://twitter.com/Frank_SLin">
+		<img src="http://localhost/franklz/wp-content/themes/franklz/images/flz_top03.png"/>
+	</a>
+	<a href="http://weibo.com/franklz">
+		<img src="http://localhost/franklz/wp-content/themes/franklz/images/flz_top04.png"/>
+	</a>
+	<a href="https://www.facebook.com/FrankLZAssociates?ref=hl">
+		<img src="http://localhost/franklz/wp-content/themes/franklz/images/flz_top05.png"/>
+	</a>
+	<a href="http://i.youku.com/franklz">
+		<img src="http://localhost/franklz/wp-content/themes/franklz/images/flz_top06.png"/>
+	</a>
+</span>
